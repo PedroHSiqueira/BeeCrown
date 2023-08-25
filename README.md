@@ -3,6 +3,9 @@ Este repositório contém as soluções que desenvolvi para os desafios proposto
 O BeeCrown é uma plataforma que oferece uma série de desafios técnicos envolvendo programação, 
 lógica e resolução de problemas. Este repositório é o registro das minhas soluções para esses desafios.
 
+## Cuidado
+não copiar a primeira linha das resoluções, se copiar ela mude para "/dev/stdin"
+
 ## Sobre o BeeCrown
 O BeeCrown é uma plataforma que visa desenvolver habilidades técnicas e cognitivas por meio de desafios estimulantes. 
 Eles cobrem uma ampla gama de tópicos, desde algoritmos e estruturas de dados até problemas do mundo real que exigem soluções criativas e eficientes.
