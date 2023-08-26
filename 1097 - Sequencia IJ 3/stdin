@@ -1,0 +1,13 @@
+var input = require("fs").readFileSync("stdin", "utf8");
+var lines = input.split("\n");
+
+let inicio = 7;
+let temporario = inicio;
+
+for (let i = 1; i <= 9; i += 2) {
+  console.log(`I=${i} J=${temporario}`);
+  console.log(`I=${i} J=${temporario - 1}`);
+  console.log(`I=${i} J=${temporario - 2}`);
+
+  temporario = temporario + 2;
+}
